@@ -243,7 +243,7 @@ top: 0;
 }
 
 #mainpanel .b1 {
-padding: 100px 0 0 0;
+padding: 0px 0 0 0;
 }
 
 #mainpanel .col {
@@ -364,7 +364,7 @@ background-position: 200px -8px;
 		bottom: 164px;*/
 	position:absolute;
 	margin-left: 240px;
-	margin-top:-164px;
+	margin-top:-14px;
 	color: white;
 }	
 
